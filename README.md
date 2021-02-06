@@ -1,5 +1,5 @@
 # GL-AT
-Pytorch implementation of the paper : A Global-local Attention Framework for Weakly Labelled Audio Tagging
+Pytorch implementation of the paper : [A Global-local Attention Framework for Weakly Labelled Audio Tagging](https://arxiv.org/pdf/2102.01931.pdf)(accepted to ICASSP2021)
 
 ## Reference
 * Qiuqiang Kong, Yin Cao, Turab Iqbal, Yuxuan Wang, Wenwu Wang, Mark D. Plumbley. "PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition." arXiv preprint arXiv:1912.10211 (2019).
